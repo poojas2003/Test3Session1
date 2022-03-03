@@ -1,1 +1,7 @@
-
+gcc -g p1original.c
+ ./a.out
+enter the first fraction
+1 2  
+enter the second fraction
+1 4
+the sum of two fractions is 3/4
